@@ -1,0 +1,2 @@
+# 538_pollster_criticism
+This code analyzes 538's raw polling data and pollster grades, calculates errors across all elections, adjusted for election-specific effects, and for the 2016 and 2020 presidential race, and shows that 538's grades are weakly correlated with success across the two most important measures of error: point-estimate error and candidate margin error.  https://github.com/fivethirtyeight/data/tree/master/pollster-ratings
